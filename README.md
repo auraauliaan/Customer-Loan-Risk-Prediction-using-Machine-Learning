@@ -12,8 +12,3 @@ The dataset consists of multiple related tables containing customer financial in
 - NumPy
 - Scikit-learn
 - XGBoost
-
-## Project Structure
-.
-├── SOURCE_CODE_ALL_NEW.ipynb
-└── README.md
